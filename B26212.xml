@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Looking-glasse for rebells, or, The true grounds of soveraignty proving the Kings authority to be from God only : and the subjects obedience from Gods speciall command.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26212</idno><idno type="EEBO-CITATION">12075588</idno>
+  <idno type="VID">196877</idno>
+  <idno type="EEBO-PROQUEST">2240954351</idno>
+  
+            <idno type="STC">Wing L3024</idno>
+            <idno type="OCLC">12075588</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196877)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 239:E65, no 19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Looking-glasse for rebells, or, The true grounds of soveraignty proving the Kings authority to be from God only : and the subjects obedience from Gods speciall command.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Web,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing reads "for William Webb," apparently in error.</note>
+                  <note>Probably printed in London.--cf. Madan.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Divine right of kings.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196877:1"/>
+            <p>A Looking-Glasse FOR REBELLS. Or the true grounds of SOVERAIGNTY, PROVING The KINGS Authority to be from <hi>GOD only:</hi> And the Subjects Obedience from Gods <hi>Speciall Command.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ROM. 13.1.</hi>
+               </bibl>
+               <p>Let every soul be subject to the higher Powers: for there is no power but of God. The powers that be, are ordained of God.</p>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed for <hi>William Web.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:196877:2"/>
+            <head>A Looking-glasse for Rebells.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> There are two grounds of true Soveraignty in our gracious Lord King <hi>CHARLES,</hi>
+                  <list>
+                     <item>
+                        <hi>1.</hi> He receiving His Authority from <hi>GOD,</hi> hath no Superi<g ref="char:EOLhyphen"/>our to punish him, but <hi>GOD</hi> alone.</item>
+                     <item>
+                        <hi>2.</hi> The Bond of his Subjects in <hi>Obedience</hi> to His Majestie, is inviolable, and not to be dissolved.</item>
+                  </list>
+               </head>
+               <p>GOD denouncing his judgements against wicked Kings, as <hi>Saul</hi> and <hi>Rehoboam,</hi> threatens with <hi>Renting their King<g ref="char:EOLhyphen"/>doms from them, and making their houses desolate.</hi> The deposing of a King, and the disposing of his Dominions, belong only to God. <hi>Obedience,</hi> Or the duty God enjoyneth all men is, <hi>To eschew evill, and doe good,</hi> which is diffused into the particular <hi>duties</hi> of
+<list>
+                     <item>1. <hi>A Servant to his Master.</hi>
+                     </item>
+                     <item>2. <hi>A Son to his Father.</hi>
+                     </item>
+                     <item>3. <hi>A Subject to his Prince.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>In the Allegiance of a Subject to his Soveraign, the <hi>evill</hi> he is to <hi>esc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ew,</hi> is <hi>evill</hi> in <hi>action,</hi> For he is not to touch him with any hurtfull touch, or <hi>stretch out his hand against his Sacred Person, Psal.</hi> 105. 1 <hi>Sam.</hi> 15. Or any way to affright or disgrace him, <hi>by cutting off the lap of his garment. Evill</hi> in words, <hi>For he is not to curse his Ruler,</hi> Exod. 22. <hi>Evill</hi> in cogitations, <hi>For he is not to curse the King in his thought.</hi> Eccles. 10. The <hi>good</hi> which he is to doe out o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Obedience</hi> to his Majestie, is in <hi>deed,</hi> by <hi>Paying Tribute.</hi> Rom. 13 By fighting his ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tells with <hi>Joab,</hi> adventuring his life with <hi>David,</hi> to vanquish his enemies. In <hi>speech,</hi> By re<g ref="char:EOLhyphen"/>vealing with Religious <hi>Mordecai,</hi> the treasonable designments of <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gan</hi> and <hi>Teresh,</hi> Host. 2. By pouring out Prayers for his wel<g ref="char:EOLhyphen"/>fare. 1 <hi>Tim.</hi> 2. In <hi>thought</hi> By esteeming and dou<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing him from the Heart, out of conscience, as the Anointed of the Lord, Gods
+<pb facs="tcp:196877:2"/> holy Ordinance, and Minister, and as a God upon earth; for this is to obey him <hi>for the Lords sake, to fear God, and honor the King;</hi> When we fear God, <hi>by whom the King reigneth, and his throne is established.</hi> 1. Pet. 2. Prov. 8. By this we plainly discern how impious and irreligious the practises of those are, who have not only actually offerd violence to his Sacred Majestie (witnesse <hi>Edge-hill</hi>) but have been favourers of those who have any ways vilified, nay, belch'd out most horrid treasons against Gods Anoin<g ref="char:EOLhyphen"/>ted, as one <hi>Pym,</hi> who said, <hi>He would wash his hands in the Kings blood,</hi> and many more in the like nature, too tedious, or odious for me to recite.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> How these two Pillars, (<hi>viz.</hi> Soveraignty, and the Bond of Obedi<g ref="char:EOLhyphen"/>ence) are supported, and upon what foundations they are built.</head>
+               <p n="1">1 I Shall discover unto you the foundation of the first prop or Pillar, <hi>Our Soveraign Lord King</hi> CHARLES <hi>receiv ng his Authority only from God, hath no Superior to chastise and punish him, but God alone.</hi>
+               </p>
+               <p>The Ancient practise of this Kingdom is cleer for this truth. <hi>Bracton,</hi> Chief Justice under <hi>Hen.</hi> 3. in his Customes of <hi>England</hi> 1 <hi>cent. rubrica.</hi> 35. saith, <hi>There are under the King Freemen and Servants, and both subject unto his Power, as also whatsoever is under him and he himself is subject unto no man, but God only.</hi> Et ipse sub nullo nisi tantum sub Deo. And again, <hi>If there be any offence committed by him, forasmuch as there is no</hi> Breeve <hi>to en<g ref="char:EOLhyphen"/>force, or constrain him, There may be supplication made, that he would correct and amend his fault, which if he shall not doe, it is a<g ref="char:EOLhyphen"/>bundantly sufficient punishment, that he is to expect God a reven<g ref="char:EOLhyphen"/>ger, for no man may presume</hi> (disquirere) <hi>judicially to examine his doings, much lesse to oppose them by force or violence.</hi> And this is no other Kingly Soveraignty then God himself hath given unto Majestie. <hi>I couns ll thee</hi> (saith God by the mouth of <hi>Solomon) to keep the Kings commandment, and that in regard of the Oa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h of God b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not hasty to goe out of his sight, stand not in an evill thing, for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e doth whatsoever pleaseth him. Where the word of a King is, t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere is Power, and who may say unto him, Wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> doest thou?</hi> Eccles. 8. An evident testimony. That Kings are subject unto
+<pb facs="tcp:196877:3"/> God, and have no mortall man their Superiour, who may require of them an account of their doings, and punish them by any ju<g ref="char:EOLhyphen"/>diciall sentence. This Divine truth is taught both by <hi>David</hi> and his Son <hi>Solomon, Against thee, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gainst thee only have I sinned.</hi> Against thee only, for he was a King (saith <hi>Ambrose</hi>) not bound unto Law, because Kings are free from the bond of crimes, and are not called unto punishment by any Law, being safe by the Po<g ref="char:EOLhyphen"/>wer of <hi>Command:</hi> therefore <hi>David</hi> sinned not against man, unto whom he was not obnoxious, in regard of punishment, but of admonition only, and reproof uttered in the Name, and by the Authority of God himself.</p>
+               <p>Hereupon the P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ophet <hi>Nathan,</hi> having used this Preface, <hi>Thus saith the Lord,</hi> admonisheth King <hi>David,</hi> that he should expiate his sin by R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pentance, but he gave no Sentence against him, whereby according to the Law, he should be adjudged unto death; for if <hi>Nathan</hi> had given any such sentence against <hi>David,</hi> he should have had power to deprive him of his life, and so of the which he enjoyed by his life, his Regall Authoritie, which God only can take away from Princes, because he alone bestoweth it upon him. From whence have they received their Soveraignty, to be here upon earth as gods over men? God himself answe<g ref="char:EOLhyphen"/>reth, <hi>Psal.</hi> 82. <hi>I have said, Ye are Gods, and by my Word the world was made; so are ye appointed by the same word to Rule the world. Who hath given unto them their Kingdomes? The Most High, he ruleth in the Kingdoms of men, and giveth it to whomsoever he will,</hi> Dan. 4. What power hath seated them in their Thrones? <hi>The Power of the Almighty.</hi> Job 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Reges</hi> (as the vulgar Tran<g ref="char:EOLhyphen"/>slation renders it) <hi>col<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cat in solio▪ He pla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eth Kings in the throne.</hi> And by whom doe they sway their Scepters, and govern their Kingdoms, By Gods speciall Authority, <hi>By me doe Kings Reign, and Princes decree Justice.</hi> Prov. 8. by his immediate Power, who is both <hi>Lord <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd King of all the earth.</hi> Psal. 47. Doth not God by the mouth of the Prophet <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>than,</hi> tell <hi>David, I anoin<g ref="char:EOLhyphen"/>ted the King over Israel.</hi> 2. Sam. 12. Doth not <hi>Solomon</hi> acknow<g ref="char:EOLhyphen"/>ledge, <hi>That the Lord hath established him, and set him on the Throne of his father David.</hi> And the Prophet <hi>Ahija</hi> in the Per<g ref="char:EOLhyphen"/>son of God, unto <hi>Jeroboam, I w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll give the Kingdom unto thee.</hi> Neither the <hi>Kingdom</hi> only, and the <hi>Power of Princes,</hi> but all
+<pb facs="tcp:196877:3"/> things else proper unto them are after a peculiar manner Gods. Their Crown, their Anointing, their Scepter, and Throne are Gods, and their Persons adorned with all these, are so divine and Sacred, That they themselves <hi>are the Angels of God, and the sons of the Most High.</hi> 2. Sam. 14. Psal. 82.</p>
+               <p>
+                  <hi>Object.</hi> Are not Kings made by the people, and receive their Regall power by them and their election? Is is not said of <hi>Saul,</hi> That all the people went to Gilgal, and there made him King before the Lord? Of <hi>David,</hi> The men of Judah anoynted <hi>Da<g ref="char:EOLhyphen"/>vid</hi> King of Judah: The Elders of Israel anoynted <hi>David</hi> King over Israel.</p>
+               <p>
+                  <hi>Answ. Zadok</hi> the Priest, and <hi>Nathan</hi> the Prophet anoynted <hi>Salomon</hi> King, and the Lord also anoynted him, otherwise hee had not been the Lords Anointed, but the Anoynted of <hi>Za<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k</hi> and <hi>Nathan.</hi> The Lord anoynted <hi>Salomon</hi> as Master of the substance, and gave unto him regall power; <hi>Zadok</hi> and <hi>Nathan</hi> anoynted <hi>Salomon</hi> as Master of the Ceremonies, and declared that God had given unto him this power: for outward unction doth not confer upon Kings their authoritie (when without it <hi>Cyrus, Esay</hi> 45. and before the use thereof, some of the Patriarks over their families, were <hi>the anoynted of the Lord)</hi> but it is a signe only of Soveraigntie; because if wee powre oyle into the same vessell with any other liquour, it will still be uppermost.</p>
+               <p>The Elders of Judah &amp; Israel anoynting <hi>David</hi> King, 2 <hi>Sam.</hi> 2. did manifest him to be their King; but did not give unto him the right unto his Kingdome, this was only from the Lords ap<g ref="char:EOLhyphen"/>pointing. So the people then made <hi>Saul</hi> King, not by giving him the right of his Kingdome▪ but by putting him in possession of his Kingdome, to reigne over them: for the Jewes by Gods speciall commandement, being to make such an one King, whom their Lord God had chosen, unto whom their Lord God had gi<g ref="char:EOLhyphen"/>ven regall authority; from their Lord God, and not from them<g ref="char:EOLhyphen"/>selves, from Heaven, and not from Earth, was the Soveraignty of their Princes.</p>
+               <p>For as in spirituall graces, which God mercifully bestoweth upon the faithfull, neither the outward ministery of <hi>Paul</hi> in plan<g ref="char:EOLhyphen"/>ting, nor of <hi>Apollos</hi> in watering, is any thing; but God giveth the encrease, 1 <hi>Cor.</hi> 3. So in the civill power, which God vouch<g ref="char:EOLhyphen"/>safeth
+<pb facs="tcp:196877:4"/> to Princes, the people are not any thing in giving this au<g ref="char:EOLhyphen"/>thority, but God only is the free Donor thereof.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> The bond of his Subjects in obedience to his Majestie is inviolable, and cannot be diss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lved.</head>
+               <p>THe principall meanes whereby the seditious sons of <hi>Belial</hi> doe pretend, that this sacred band may be dissolved, are ei<g ref="char:EOLhyphen"/>ther supposed crimes in the Persons of Princes, as Tyranny in go<g ref="char:EOLhyphen"/>verning, Infidelity, Heresie, Apostasie. First for Tyranny, Was not <hi>Saul</hi> a Tyrant in hunting after the soule, and seeking after the life of <hi>David,</hi> who was most faithfull unto him amongst all his servants, whom he himselfe confessed to have rendered good for evill? Was hee not a bloudy oppressour in commanding <hi>Doeg,</hi> without any just cause of offence, violently to run upon the Priests, and slay foure-score and five persons that did weare a linnen Ephod, 2 <hi>Sam.</hi> 22.18, 19. To smite Nob, the citie of the Priests, both man and woman, both child and suckling, both Oxe and Asse, and sheep, with the edge of the sword?</p>
+               <p>The bloud of many Innocents did cry unto God for venge<g ref="char:EOLhyphen"/>ance, and by his speciall commandement, <hi>Gen.</hi> 9.6. <hi>Wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>so shed<g ref="char:EOLhyphen"/>deth mans bloud, by man his bloud shall be shed)</hi> deserved death: yet <hi>David,</hi> not an ordinary or private man, but by Gods owne appointment designed unto the Kingdome, a chiefe Captain and Leader in the Kings battels, the Kings son in law, when he had <hi>Saul</hi> delivered into his hand, and was encouraged by his ser<g ref="char:EOLhyphen"/>vants to destroy him, said unto them, 1 <hi>Sam.</hi> 24 6. <hi>The Lord keep me from doing that thing unto my Master, the Lords anoynted, to lay my hand upon him; for he is the Lords anoynted.</hi> And after un<g ref="char:EOLhyphen"/>to <hi>Saul</hi> himselfe, <hi>vers.</hi> 14. <hi>Wickednesse proceedeth from the wicked, but mine hand be not upon thee.</hi> And againe unto <hi>Abishai,</hi> when the Lord another time had closed <hi>Saul</hi> into his hands, (1 <hi>Sam.</hi> 26.9.) <hi>Destroy him not; for who can lay hands upon the Lords an<g ref="char:EOLhyphen"/>oynted, and be guiltlesse?</hi> Which pious and religious acts of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> towards <hi>Saul,</hi> amongst the Israelites, <hi>Optatus</hi> hath elegantly described, the more effectually to comm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd them unto Chri<g ref="char:EOLhyphen"/>stians: <hi>David</hi> (saith <hi>Optatus</hi>) had the occasion of victory in his
+<pb facs="tcp:196877:4"/> hands, he might have cut the throat of his unwary and secure ad<g ref="char:EOLhyphen"/>versary, without any labour; hee might without shedding of bloud, without any conflict, have changed a publike war into a private slaughter, and his men the victory, occasion and oppor<g ref="char:EOLhyphen"/>tunity encouraged him: he began to draw his sword, his armed hand was moved towards the throat of his enemy; but the per<g ref="char:EOLhyphen"/>fect remembrance of Gods Commandements stayed him: hee withstanding his men, and the occasions enciting him, in effect thus speaketh unto them: O victory, thou doest in vaine pro<g ref="char:EOLhyphen"/>voke, and invite me with thy triumphs, I would willingly con<g ref="char:EOLhyphen"/>quer mine enemy, but I must rather keep Gods Commande<g ref="char:EOLhyphen"/>ments, I will not (saith he) lay mine hands upon the Lords an<g ref="char:EOLhyphen"/>oynted. And so he repressed his hand together with his sword; and whiles he feared the oyle, saved his enemy. <hi>Tertullian</hi> tea<g ref="char:EOLhyphen"/>cheth, to wish evill, to doe evill, to think evill, is indifferently forbidden us towards all men; thence inferreth, if wee are not to offer the least of these injuries to any man, much lesse to him that is so highly advanced by our God, speaking of the Emperour <hi>Severus,</hi> who was an unbeleeving Tyrant, an Infidell, that did grievously persecute the Christians, whom he did afflict with the fifth famous persecution.</p>
+               <p>St. <hi>Peter</hi> writ his first Epistle in the time of <hi>Claudius</hi> the Em<g ref="char:EOLhyphen"/>perour, and did direct it to his Countrey men the Jewes, tho<g ref="char:EOLhyphen"/>rowout Pontus, Galatia, Cappadocia, Asia, Bythima, regi<g ref="char:EOLhyphen"/>ons then subject unto the Roman Emperour. And because some seducers (with whom this latter age is much burdened) had perswaded the Jewes, under a pretext of maintaining their li<g ref="char:EOLhyphen"/>berty, that tribute was not to be payd to <hi>Caesar,</hi> neither any mor<g ref="char:EOLhyphen"/>tall man was to be accounted as a Prince or Lord over them, but God only: St. <hi>Peter</hi> exhorteth them to be <hi>free,</hi> as not using their liberty for a cloke of malicious<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esse, but as the servants of God, (1 <hi>Pet.</hi> 2.16, and 18.) and to feare God, but yet to honour the King also. And although Magistrates be men, and so their Or<g ref="char:EOLhyphen"/>dinance, in regard of their persons in whom it doth reside, but humane; yet to submit themselves unto them, for the Lords sake, from whom they received their authority. And if we are commanded to submit our selves, and to be subje <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to a profane Infidell and mercilesse Tyrant, as <hi>Claudius</hi> was, who would have
+<pb facs="tcp:196877:5"/> tortures in examinations, punishments for Patricides exec<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d in his owne presence: hee had most cruell Searchers of all t<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> came but to salute him, sparing not <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y sex or age; he delighted to see the faces of Fencers (whose throats hee had caused to be cut for stumbling by chance in their sword fights) as they lay gasping, and yeelding up their breath: and being excessively gi<g ref="char:EOLhyphen"/>ven to the wanton love of women, hee was so enthralled to his wives and free-men, that as it was commodious unto them, or stood with their affection, he granted honourable dignities, con<g ref="char:EOLhyphen"/>ferred the conducts of Armies, and decreed impunities or pu<g ref="char:EOLhyphen"/>nishments; yet unto such an unbeleeving and bloudy Oppressor, St. <hi>Peter</hi> earnestly exhorteth the beleeving Jewes to yeeld obe<g ref="char:EOLhyphen"/>dience.</p>
+               <p>If Subjects are obliged in duty, and out of conscience cheer<g ref="char:EOLhyphen"/>fully to obey tyrannous, unbeleeving, hereticall, Apostaticall Princes, as Powers ordained of God: with what alacr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> should we be in all things obsequious unto our gracious and tru<g ref="char:EOLhyphen"/>ly religious Soveraigne? Gracious, as being like unto God, whose Vice-Gerent he is in this, that his clemencie and mercie is over all his works: Religious, in that he is a zealous Propug<g ref="char:EOLhyphen"/>ner of the ancient and Catholike Faith, not only by his Kingly power and authority, but hath confirmed the same by many sa<g ref="char:EOLhyphen"/>cred <hi>vowes</hi> and <hi>protestations,</hi> to the glory of God, to the rejoy<g ref="char:EOLhyphen"/>cing of Angels, and to the great comfort of all his true-hearted Subjects, so to the terrour and confusion of all his seditiou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> e<g ref="char:EOLhyphen"/>nemies.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
